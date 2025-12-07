@@ -1,0 +1,11 @@
+/* App.css */
+body {
+  margin: 0;
+  background-color: #f0f8ff;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
