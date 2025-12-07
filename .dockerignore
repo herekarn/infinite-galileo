@@ -1,0 +1,26 @@
+# Dependencies
+node_modules
+
+# Git
+.git
+.gitignore
+
+# Build output
+dist
+build
+
+# Docker
+.dockerignore
+Dockerfile
+
+# IDEs and editors
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Misc
+npm-debug.log
